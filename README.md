@@ -1,3 +1,9 @@
+# ❗Repository Moved ❗
+
+This repository has been moved to a new location.
+
+Please visit **[redhat-developer/red-hat-developer-hub-customization-provider](https://github.com/redhat-developer/red-hat-developer-hub-customization-provider)** for the latest updates.
+
 # backstage-customization-provider
 
 This is an example Express server, which serves an API.
